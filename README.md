@@ -30,8 +30,6 @@ The main goal of this repository is to demonstrate my proficiency in Python thro
 
 Each project folder contains all necessary code files, datasets (if applicable), and a README file with instructions on how to set up and run the project.
 
-Feel free to explore the projects, experiment with the code, and provide feedback. Contributions and suggestions are always welcome to help improve these projects further.
-
 # Thank You! 
 
 Thank you for visiting this repository. I hope you find these projects insightful and inspiring!
